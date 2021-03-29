@@ -7,7 +7,7 @@
 
 import UIKit
 import Photos
-
+//create collection view
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout, UINavigationControllerDelegate {
 
     var myCollectionView: UICollectionView!
